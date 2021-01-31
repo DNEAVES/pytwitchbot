@@ -9,4 +9,6 @@ Requires the twitchio and keyboard modules, and optionally requires PySimpleGUI.
 The latter is only if you want a small window when packaging the program for use outside of a terminal, so users know the program is running.
 If you don't want to create a window via pysimplegui, just remove the import at the top and the "small window" section at the bottom of the python script.
 
-Since PySimpleGUI uses a GNU GPLv3 License, I'm going to assume this will also require a GNU GPLv3 License. Otherwise twitchio and keyboard only require MIT
+Since PySimpleGUI uses a GNU GPLv3 License, I'm going to assume this will also require a GNU GPLv3 License. Otherwise twitchio and keyboard only require MIT.
+
+Some probably-needed legal things for this: This project isn't affiliated with, nor endorsed by, Twitch.
