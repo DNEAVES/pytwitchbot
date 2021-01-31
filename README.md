@@ -10,4 +10,3 @@ The latter is only if you want a small window when packaging the program for use
 If you don't want to create a window via pysimplegui, just remove the import at the top and the "small window" section at the bottom of the python script.
 
 Since PySimpleGUI uses a GNU GPLv3 License, I'm going to assume this will also require a GNU GPLv3 License.
-If you use this and remove PySimpleGUI, twitchio and keyboard only use an MIT License, so you would be able to use that upon removal.
