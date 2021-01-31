@@ -7,6 +7,7 @@ I have removed information specific to his Twitch stream and my own "bot account
 
 Requires the twitchio and keyboard modules, and optionally requires pysimplegui.
 The latter is only if you want a small window when packaging the program for use outside of a terminal, so users know the program is running.
+If you don't want to create a window via pysimplegui, just remove the import at the top and the "small window" section at the bottom of the python script.
 
 Since PySimpleGUI uses a GNU GPLv3 License, I'm going to assume this will also require a GNU GPLv3 License.
 If you use this and remove PySimpleGUI, twitchio and keyboard only use an MIT License, so you would be able to use that upon removal.
